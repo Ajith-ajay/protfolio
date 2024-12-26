@@ -31,13 +31,13 @@ function Projects() {
         />
         <ProjectCard
           src={login1}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/Ajith-ajay/fullstack-login-sign-up.git"
           h3="Login sign-up page"
           p="Login App"
         />
         <ProjectCard
           src={web}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/Ajith-ajay/Web-Scrapping.git"
           h3="Web scrapping"
           p="movie scrapper"
         />
